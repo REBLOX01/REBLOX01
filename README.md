@@ -18,7 +18,7 @@
 </br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reblox01&theme=monokai" alt="reblox01" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=reblox01&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="reblox01" /></a> </p>
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
