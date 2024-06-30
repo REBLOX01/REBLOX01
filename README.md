@@ -75,5 +75,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">🔝 Top Contributed Repo </h3>
 <img src="https://github-contributor-stats.vercel.app/api?username=reblox01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="top" />
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Donation:</h3>
 <p><a href="https://www.buymeacoffee.com/arosck1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aroscki" /></a></p><br><br>
