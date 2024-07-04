@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [WebDash](https://github.com/reblox01/webdash.git)
+- 🔭 I’m currently working on [WebDash](https://github.com/reblox01/webdash.git) (Private)
 - 🤝 I’m looking for help with [aroscka](https://github.com/reblox01/aroscka.git)
 - 🌱 I'm on track with learning more about **NextJs, Angular, C, Shell and .NET**
 - 💬 Ask me about **React, Tailwindcss, TS, JS**
