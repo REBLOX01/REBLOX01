@@ -52,7 +52,7 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/arosck1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aroscki" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/arosck1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=arosck1&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a></p><br><br>
 
 ## Stars
 ![](https://github-readme-stats.vercel.app/api?username=reblox01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
@@ -75,4 +75,4 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=reblox01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="top" />
 
 <h3 align="left">Donation:</h3>
-<p><a href="https://www.buymeacoffee.com/arosck1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aroscki" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/arosck1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=arosck1&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a></p><br><br>
