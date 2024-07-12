@@ -1,4 +1,4 @@
-[![Header](https://github.com/reblox01/reblox01/blob/4881e672f3e5f2938183f42fb146bfb3a640ca8e/banner.gif?raw=true "Header")](https://github.com/reblox01)
+[![Header](https://github.com/reblox01/reblox01/blob/2b992624d757595e44794491c04dba29a4f6cd7a/banner.gif?raw=true "Header")](https://github.com/reblox01)
 
 ## 👋 Hello! 
 Professional web developer with diverse experience in web development technologies. Specializes in modern technologies and proficient in multiple programming languages. Known for designing and implementing effective and innovative solutions. Strong analytical skills ensure efficient resolution of technical challenges, resulting in high-performance applications and websites. Dedicated to continuous innovation and improvement, especially in collaborative team environments.
