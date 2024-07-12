@@ -1,5 +1,4 @@
-<h1 align="center">Hi There! 👋, I'm 0x8D</h1>
-<h3 align="center">I'm a Web Full-Stack Developer</h3>
+[![Header](https://github.com/reblox01/reblox01/blob/4f35fa971dfa9c4d970fbab45d9030af56e5021c/banner.gif?raw=true "Header")](https://github.com/reblox01)
 
 
 
