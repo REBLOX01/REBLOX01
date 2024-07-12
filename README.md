@@ -1,26 +1,18 @@
 [![Header](https://github.com/reblox01/reblox01/blob/4f35fa971dfa9c4d970fbab45d9030af56e5021c/banner.gif?raw=true "Header")](https://github.com/reblox01)
 
 
+## 👋 Hello! 
+Professional web developer with diverse experience in web development technologies. Specializes in modern technologies and proficient in multiple programming languages. Known for designing and implementing effective and innovative solutions. Strong analytical skills ensure efficient resolution of technical challenges, resulting in high-performance applications and websites. Dedicated to continuous innovation and improvement, especially in collaborative team environments.
 
-- 🔭 I’m currently working on [WebDash](https://github.com/reblox01/webdash.git) (Private)
-- 🤝 I’m looking for help with [aroscka](https://github.com/reblox01/aroscka.git)
-- 🌱 I'm on track with learning more about **NextJs, Angular, C, Shell and .NET**
-- 💬 Ask me about **React, Tailwindcss, TS, JS**
-- 📫 How to reach me **sohailkoutari@gmail.com**
-- 👨‍💻 All of my links are available at **https://linktr.ee/aroscki**
-- 📄 Know about my experiences **https://linktr.ee/aroscki**
-- ⚡ Fun fact **This version of me SMARTER than other versions**
+## 📚 Writing
+Beyond web development, skilled in 3D modeling, shell and Python scripting, and web design. Experienced in game development, including creating 2D games using Godot and HTML Canvas. Proficient in user experience (UX) design and adept at using design tools like Adobe Creative Suite and Figma to create visually appealing and user-friendly interfaces. An excellent communicator and problem-solver, with a knack for learning new technologies and adapting to changing project requirements.
 
-</div><h3 align="left">Connect with me:</h3>
+## 🔗 Connect with me:
 <p align="left">
 <a href="https://twitter.com/arosck1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="arosck1" height="30" width="40" /></a><a href="https://linkedin.com/in/sohail-koutari" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="sohail-koutari" height="30" width="40" /></a><a href="https://www.youtube.com/c/aroscki" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="aroscki" height="30" width="40" /></a><a href="https://discord.com/users/684849854010228757" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="mzQ8hw5GjQ" height="30" width="40" /></a><a href="https://stackoverflow.com/users/21022067" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="21022067" height="30" width="40" /></a><a href="https://instagram.com/aroscki" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="aroscki" height="30" width="40" /></a><a href="https://www.behance.net/reblox1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="reblox1" height="30" width="40" /></a><a href="https://medium.com/@cryptoroscki" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@cryptoroscki" height="30" width="40" /></a><a href="mailto:sohailkoutari@gmail.com" target="blank"><img align="center" src="https://github.com/reblox01/profile-readme/assets/74146687/67bc0392-c434-44f7-b06c-43b133457db5" alt="mail" height="40" width="40" /></a><a href="https://www.reddit.com/user/Agreeable_Asparagus3" target="blank"><img align="center" src="https://github.com/reblox01/profile-readme/assets/74146687/0a32b945-b124-4392-8ff6-4e5013bee0df" alt="mail" height="35" width="35" /></a><a href="https://www.quora.com/profile/Aroscki" target="blank"><img align="center" src="https://github.com/reblox01/profile-readme/assets/74146687/0925482f-4807-4015-8da3-244a7e6faa6f" alt="mail" height="40" width="40" /></a></p>
-</br>
 
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=reblox01&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="reblox01" /></a> </p>
-</br>
-
-<h3 align="left">Languages and Tools:</h3>
+## ⚙️ Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -50,28 +42,20 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/arosck1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=arosck1&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a></p><br><br>
+## Support:
+<p><a href="https://www.buymeacoffee.com/arosck1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=arosck1&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a></p>
 
 ## Stars
 ![](https://github-readme-stats.vercel.app/api?username=reblox01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reblox01&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reblox01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+
+
+## Statistics
 <div align="center">
 <a href="https://github.com/reblox01">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reblox01&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reblox01&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reblox01&theme=great_gatsby" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reblox01&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reblox01&theme=tokyonight" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">⚡Activity Graph:</h3>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=reblox01&theme=one-dark"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">🔝 Top Contributed Repo </h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=reblox01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="top" />
 
-<h3 align="left">Donation:</h3>
-<p><a href="https://www.buymeacoffee.com/arosck1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=arosck1&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a></p><br><br>
