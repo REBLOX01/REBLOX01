@@ -49,12 +49,3 @@ Beyond web development, skilled in 3D modeling, shell and Python scripting, and 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reblox01&theme=tokyonight&hide_border=true)
 
 
-
-## Statistics
-<div align="center">
-<a href="https://github.com/reblox01">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reblox01&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reblox01&theme=tokyonight" height="180em" />
-</div>
-
-
