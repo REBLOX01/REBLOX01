@@ -3,6 +3,12 @@
 ## 👋 Hello! 
 Professional web developer with diverse experience in web development technologies. Specializes in modern technologies and proficient in multiple programming languages. Known for designing and implementing effective and innovative solutions. Strong analytical skills ensure efficient resolution of technical challenges, resulting in high-performance applications and websites. Dedicated to continuous innovation and improvement, especially in collaborative team environments.
 
+## Portfolio
+Explore my latest web development projects, showcasing my expertise in front-end and back-end technologies, user interface design, and performance optimization.
+
+[Visit My Portfolio](https://sohail-koutari.vercel.app/)
+
+
 ## 📚 Writing
 Beyond web development, skilled in 3D modeling, shell and Python scripting, and web design. Experienced in game development, including creating 2D games using Godot and HTML Canvas. Proficient in user experience (UX) design and adept at using design tools like Adobe Creative Suite and Figma to create visually appealing and user-friendly interfaces. An excellent communicator and problem-solver, with a knack for learning new technologies and adapting to changing project requirements.
 
